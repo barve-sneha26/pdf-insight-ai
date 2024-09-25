@@ -1,0 +1,10 @@
+langchain
+cassio
+datasets
+openai
+tiktoken
+PyPDF2 
+os 
+langchain_openai 
+langchain-community 
+requests
